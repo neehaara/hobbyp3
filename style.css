@@ -1,0 +1,25 @@
+body{
+  text-align:center;
+  background-color:cornsilk;
+  background-repeat:0
+}
+h3{
+  font-family:comic sans ms;
+  color:burlywood
+}
+h2{
+  font-family:lucida handwriting;
+  color:turquoise;
+}
+#anime{
+  color:lightskyblue;
+  font-size:20px
+}
+#para1{
+  font-family:lucida handwriting;
+  color:lightcoral;
+  font-size:15px;
+}
+img{
+	height: 250px;
+}
